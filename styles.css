@@ -26,6 +26,7 @@ body {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    flex-wrap: wrap;
 }
 
 .fv {
@@ -169,7 +170,7 @@ body {
 }
 
 .experiences {
-    flex: 1 1 60%;
+    flex: 1 1 50%;
     margin-right: 50px;
 }
 
